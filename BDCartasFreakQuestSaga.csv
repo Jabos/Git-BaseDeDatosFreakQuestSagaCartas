@@ -1,7 +1,7 @@
-Identificador,Nombre,Acciónl,Poder,Cementerio,Efectos
+﻿Identificador,Nombre,AcciÃ³nl,Poder,Cementerio,Efectos;;;;;
 0;Bjorn;Atacar;8;No;Ninguno
 1;Gallo;Escudar;2;No;Dureza
-2;Nevermore;Curar;6;No;Maldición
+2;Nevermore;Curar;6;No;MaldiciÃ³n
 3;Travix;Atacar;3;No;Ninguno
 4;Negotti;Atacar;5;No;Ninguno
 5;Negichi;Escudar;5;No;Ninguno
@@ -11,7 +11,7 @@ Identificador,Nombre,Acciónl,Poder,Cementerio,Efectos
 9;Pollier;Atacar;4;No;Ninguno
 10;The Traveller;Atacar;5;No;Ninguno
 11;Mayel;Escudar;4;No;Ninguno
-12;Spark;Atacar;4;No;Paralización
+12;Spark;Atacar;4;No;ParalizaciÃ³n
 13;Alyx;Atacar;0;No;Ninguno
 14;Fucspco;Atacar;4;No;Ninguno
 15;Fucspco desatado;Atacar;18;No;Ninguno
@@ -24,7 +24,7 @@ Identificador,Nombre,Acciónl,Poder,Cementerio,Efectos
 22;Chica;Atacar;3;No;Ninguno
 23;Balbio;Afectar;0;No;Fuerza
 24;Astronomio;Atacar;3;No;Quemadura
-25;Javier;Atacar;2;No;Paralización
+25;Javier;Atacar;2;No;ParalizaciÃ³n
 26;Sintegra;Afectar;0;No;Fragiidad
 27;Escuneg;Escudar;6;No;Ninguno
 28;Latigazo;Hechizo;0;Si;Ninguno
@@ -38,16 +38,16 @@ Identificador,Nombre,Acciónl,Poder,Cementerio,Efectos
 36;Gerner;Atacar;5;No;Furia
 37;Moshy;Curar;4;No;Dureza
 38;Andot;Curar;2;No;Ninguno
-39;Patitas;Atacar;2;No;Paralización
-40;Boxón;Atacar;6;No;Ninguno
+39;Patitas;Atacar;2;No;ParalizaciÃ³n
+40;BoxÃ³n;Atacar;6;No;Ninguno
 41;Moscorata;Atacar;3;No;Ninguno
 42;Serx;Atacar;5;No;Ninguno
 43;Mirx;Escudar;10;Si;Ninguno
 44;Vulmerx;Curar;8;No;Ninguno
 45;Quex;Afectar;0;No;Quemadura
-46;Sufurus;Afectar;0;No;Maldición
+46;Sufurus;Afectar;0;No;MaldiciÃ³n
 47;Gosto;Escudar;4;No;Ninguno
-48;Damaneg;Atacar;4;No;Maldición
+48;Damaneg;Atacar;4;No;MaldiciÃ³n
 49;Vuduneg;Atacar;15;No;Ninguno
 50;McDuck;Escudar;4;No;Ninguno
 51;Hueva;Escudar;8;SI;Dureza
@@ -81,21 +81,21 @@ Identificador,Nombre,Acciónl,Poder,Cementerio,Efectos
 79;Zombiecken;Atacar;4;No;Debilidad
 80;Sworeg;Atacar;3;No;Ninguno
 81;Angeleg;Curar;3;No;Ninguno
-82;Ratimus;Atacar;4;No;Corrosión
-83;Gold Ratimus;Atacar;8;No;Corrosión
+82;Ratimus;Atacar;4;No;CorrosiÃ³n
+83;Gold Ratimus;Atacar;8;No;CorrosiÃ³n
 84;Cheeso;Escudar;4;No;Ninguno
 85;Gold Cheeso;Escudar;10;No;Dureza
 86;Rawton;Atacar;7;No;Ninguno
 87;Gold Rawton;Atacar;7;No;Envenenamiento
-88;Ratric;Atacar;5;No;Paralización
-89;Gold Ratric;Atacar;7;No;Paralización
+88;Ratric;Atacar;5;No;ParalizaciÃ³n
+89;Gold Ratric;Atacar;7;No;ParalizaciÃ³n
 90;Vecteleo;Atacar;5;No;Debilidad
 91;Baltasar;Atacar;10;No;Quemadura
 92;Robotop;Curar;2;No;Ninguno
 93;Woods;Atacar;8;No;Ninguno
 94;Flameo;Atacar;5;No;Ninguno
 95;Trusher;Atacar;5;No;Ninguno
-96;Penny;Curar;4;No;Bendición
+96;Penny;Curar;4;No;BendiciÃ³n
 97;Blooshark;Atacar;8;No;Terror
 98;Lessy;Curar;12;No;Inmunidad
 99;Mayelado;Hechizo;0;Si;Ninguno
@@ -110,29 +110,29 @@ Identificador,Nombre,Acciónl,Poder,Cementerio,Efectos
 108;Muerte;Atacar;30;No;Ninguno
 109;Eustavio;Afectar;0;No;Adormecimiento
 110;Paul;Atacar;15;Si;Ninguno
-111;Ratelín;Atacar;5;No;Terror
+111;RatelÃ­n;Atacar;5;No;Terror
 112;Snick;Curar;5;No;Congelamiento
 113;Phrye;Escudar;8;No;Fuerza
 114;Nurbo;Atacar;5;No;Congelamiento
 115;Haucken;Atacar;10;No;Ninguno
 116;Yem;Atacar;0;No;Ninguno
 117;Heliner;Atacar;7;No;Ninguno
-118;Leutic;Afectar;0;No;Maldición
-119;Humoi;Atacar;10;Si;Maldición
+118;Leutic;Afectar;0;No;MaldiciÃ³n
+119;Humoi;Atacar;10;Si;MaldiciÃ³n
 120;Nivorem;Atacar;10;Si;Envenenamiento
 121;ArmorChicken;Escudar;15;Si;Ninguno
 122;Vacow;Escudar;4;No;Espinas
 123;Myke;Atacar;5;No;Ninguno
 124;Big Pancho;Atacar;5;No;Ninguno
 125;Mimi-chan;Curar;5;No;Ninguno
-126;Conjuro energético;Hechizo;0;Si;Ninguno
+126;Conjuro energÃ©tico;Hechizo;0;Si;Ninguno
 127;Sobrecalentamiento;Hechizo;0;Si;Quemadura
-128;¡Otra vez!;Hechizo;0;Si;Ninguno
-129;Resurrección;Hechizo;0;Si;Ninguno
+128;Â¡Otra vez!;Hechizo;0;Si;Ninguno
+129;ResurrecciÃ³n;Hechizo;0;Si;Ninguno
 130;Paquete especial;Hechizo;0;Si;Ninguno
-131;Invocación;Hechizo;0;Si;Ninguno
-132;Profecía;Hechizo;0;Si;Bendición
+131;InvocaciÃ³n;Hechizo;0;Si;Ninguno
+132;ProfecÃ­a;Hechizo;0;Si;BendiciÃ³n
 133;Desenfreno;Hechizo;0;Si;Fuerza
-134;Maldición;Hechizo;0;Si;Ninguno
+134;MaldiciÃ³n;Hechizo;0;Si;Ninguno
 135;Fortaleza;Hechizo;0;Si;Ninguno
-136;Cría de Tarántula;Atacar;5;No;Debilidad
+136;CrÃ­a de TarÃ¡ntula;Atacar;5;No;Debilidad
