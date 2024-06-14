@@ -1,7 +1,7 @@
-Identificador;Nombre;Acci髇;Poder;Cementerio;Efectos
+Identificador,Nombre,Acci贸nl,Poder,Cementerio,Efectos
 0;Bjorn;Atacar;8;No;Ninguno
 1;Gallo;Escudar;2;No;Dureza
-2;Nevermore;Curar;6;No;Maldici髇
+2;Nevermore;Curar;6;No;Maldici贸n
 3;Travix;Atacar;3;No;Ninguno
 4;Negotti;Atacar;5;No;Ninguno
 5;Negichi;Escudar;5;No;Ninguno
@@ -11,7 +11,7 @@ Identificador;Nombre;Acci髇;Poder;Cementerio;Efectos
 9;Pollier;Atacar;4;No;Ninguno
 10;The Traveller;Atacar;5;No;Ninguno
 11;Mayel;Escudar;4;No;Ninguno
-12;Spark;Atacar;4;No;Paralizaci髇
+12;Spark;Atacar;4;No;Paralizaci贸n
 13;Alyx;Atacar;0;No;Ninguno
 14;Fucspco;Atacar;4;No;Ninguno
 15;Fucspco desatado;Atacar;18;No;Ninguno
@@ -24,7 +24,7 @@ Identificador;Nombre;Acci髇;Poder;Cementerio;Efectos
 22;Chica;Atacar;3;No;Ninguno
 23;Balbio;Afectar;0;No;Fuerza
 24;Astronomio;Atacar;3;No;Quemadura
-25;Javier;Atacar;2;No;Paralizaci髇
+25;Javier;Atacar;2;No;Paralizaci贸n
 26;Sintegra;Afectar;0;No;Fragiidad
 27;Escuneg;Escudar;6;No;Ninguno
 28;Latigazo;Hechizo;0;Si;Ninguno
@@ -38,16 +38,16 @@ Identificador;Nombre;Acci髇;Poder;Cementerio;Efectos
 36;Gerner;Atacar;5;No;Furia
 37;Moshy;Curar;4;No;Dureza
 38;Andot;Curar;2;No;Ninguno
-39;Patitas;Atacar;2;No;Paralizaci髇
-40;Box髇;Atacar;6;No;Ninguno
+39;Patitas;Atacar;2;No;Paralizaci贸n
+40;Box贸n;Atacar;6;No;Ninguno
 41;Moscorata;Atacar;3;No;Ninguno
 42;Serx;Atacar;5;No;Ninguno
 43;Mirx;Escudar;10;Si;Ninguno
 44;Vulmerx;Curar;8;No;Ninguno
 45;Quex;Afectar;0;No;Quemadura
-46;Sufurus;Afectar;0;No;Maldici髇
+46;Sufurus;Afectar;0;No;Maldici贸n
 47;Gosto;Escudar;4;No;Ninguno
-48;Damaneg;Atacar;4;No;Maldici髇
+48;Damaneg;Atacar;4;No;Maldici贸n
 49;Vuduneg;Atacar;15;No;Ninguno
 50;McDuck;Escudar;4;No;Ninguno
 51;Hueva;Escudar;8;SI;Dureza
@@ -81,21 +81,21 @@ Identificador;Nombre;Acci髇;Poder;Cementerio;Efectos
 79;Zombiecken;Atacar;4;No;Debilidad
 80;Sworeg;Atacar;3;No;Ninguno
 81;Angeleg;Curar;3;No;Ninguno
-82;Ratimus;Atacar;4;No;Corrosi髇
-83;Gold Ratimus;Atacar;8;No;Corrosi髇
+82;Ratimus;Atacar;4;No;Corrosi贸n
+83;Gold Ratimus;Atacar;8;No;Corrosi贸n
 84;Cheeso;Escudar;4;No;Ninguno
 85;Gold Cheeso;Escudar;10;No;Dureza
 86;Rawton;Atacar;7;No;Ninguno
 87;Gold Rawton;Atacar;7;No;Envenenamiento
-88;Ratric;Atacar;5;No;Paralizaci髇
-89;Gold Ratric;Atacar;7;No;Paralizaci髇
+88;Ratric;Atacar;5;No;Paralizaci贸n
+89;Gold Ratric;Atacar;7;No;Paralizaci贸n
 90;Vecteleo;Atacar;5;No;Debilidad
 91;Baltasar;Atacar;10;No;Quemadura
 92;Robotop;Curar;2;No;Ninguno
 93;Woods;Atacar;8;No;Ninguno
 94;Flameo;Atacar;5;No;Ninguno
 95;Trusher;Atacar;5;No;Ninguno
-96;Penny;Curar;4;No;Bendici髇
+96;Penny;Curar;4;No;Bendici贸n
 97;Blooshark;Atacar;8;No;Terror
 98;Lessy;Curar;12;No;Inmunidad
 99;Mayelado;Hechizo;0;Si;Ninguno
@@ -110,29 +110,29 @@ Identificador;Nombre;Acci髇;Poder;Cementerio;Efectos
 108;Muerte;Atacar;30;No;Ninguno
 109;Eustavio;Afectar;0;No;Adormecimiento
 110;Paul;Atacar;15;Si;Ninguno
-111;Ratel韓;Atacar;5;No;Terror
+111;Ratel铆n;Atacar;5;No;Terror
 112;Snick;Curar;5;No;Congelamiento
 113;Phrye;Escudar;8;No;Fuerza
 114;Nurbo;Atacar;5;No;Congelamiento
 115;Haucken;Atacar;10;No;Ninguno
 116;Yem;Atacar;0;No;Ninguno
 117;Heliner;Atacar;7;No;Ninguno
-118;Leutic;Afectar;0;No;Maldici髇
-119;Humoi;Atacar;10;Si;Maldici髇
+118;Leutic;Afectar;0;No;Maldici贸n
+119;Humoi;Atacar;10;Si;Maldici贸n
 120;Nivorem;Atacar;10;Si;Envenenamiento
 121;ArmorChicken;Escudar;15;Si;Ninguno
 122;Vacow;Escudar;4;No;Espinas
 123;Myke;Atacar;5;No;Ninguno
 124;Big Pancho;Atacar;5;No;Ninguno
 125;Mimi-chan;Curar;5;No;Ninguno
-126;Conjuro energ閠ico;Hechizo;0;Si;Ninguno
+126;Conjuro energ茅tico;Hechizo;0;Si;Ninguno
 127;Sobrecalentamiento;Hechizo;0;Si;Quemadura
-128;tra vez!;Hechizo;0;Si;Ninguno
-129;Resurrecci髇;Hechizo;0;Si;Ninguno
+128;隆Otra vez!;Hechizo;0;Si;Ninguno
+129;Resurrecci贸n;Hechizo;0;Si;Ninguno
 130;Paquete especial;Hechizo;0;Si;Ninguno
-131;Invocaci髇;Hechizo;0;Si;Ninguno
-132;Profec韆;Hechizo;0;Si;Bendici髇
+131;Invocaci贸n;Hechizo;0;Si;Ninguno
+132;Profec铆a;Hechizo;0;Si;Bendici贸n
 133;Desenfreno;Hechizo;0;Si;Fuerza
-134;Maldici髇;Hechizo;0;Si;Ninguno
+134;Maldici贸n;Hechizo;0;Si;Ninguno
 135;Fortaleza;Hechizo;0;Si;Ninguno
-136;Cr韆 de Tar醤tula;Atacar;5;No;Debilidad
+136;Cr铆a de Tar谩ntula;Atacar;5;No;Debilidad
